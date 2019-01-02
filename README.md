@@ -1,5 +1,5 @@
-# Caption_Switcher
-![](https://img.shields.io/github/license/rios0rios0/Caption_Switcher.svg)
+# Caption Switcher
+![](https://img.shields.io/github/license/rios0rios0/Caption-Switcher.svg)
 
 ## Project Details:
 - Object Pascal with Borland Delphi __7__;
